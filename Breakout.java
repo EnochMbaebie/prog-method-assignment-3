@@ -1,10 +1,10 @@
 /*
  * File: Breakout.java
  * -------------------
- * Name:
- * Section Leader:
+ * Name:Enoch Mbaebie
+ * Sweskills Tech Talent Academy
  * 
- * This file will eventually implement the game of Breakout.
+ *  game of Breakout.
  */
 
 import acm.graphics.*;
